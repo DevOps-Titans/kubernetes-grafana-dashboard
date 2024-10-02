@@ -14,7 +14,7 @@ data:
                 "name": "prometheus",
                 "orgId": 1,
                 "type": "prometheus",
-                "url": "http://192.168.7.200:30000",
+                "url": "http://<master-ip>:30000",
                 "version": 1
             }
         ]
